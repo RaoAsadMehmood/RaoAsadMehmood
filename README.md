@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raoasadmehmood" alt="raoasadmehmood" /></a> </p>
 
-- 🔭 I’m currently working on [Bandage-e-commerce-store](https://github.com/RaoAsadMehmood/bandage-store)
+- 🔭 I’m currently focusing on  [learning-Python](https://github.com/RaoAsadMehmood/My-Journey-of-learning-Python)
 
-- 🌱 I’m currently learning **JavaScript,ReactJs,Typescript,NextJs**
+- 🌱 I’m currently learning **JavaScript,ReactJs,Typescript,NextJs,Python**
 
 - 📫 How to reach me **asadrao2489@gmail.com**
 
